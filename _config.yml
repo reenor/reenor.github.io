@@ -9,7 +9,7 @@ version: 2
 name: Khanh Quang Chung
 title: Senior Embedded Software Developer
 email: reedus.chung@gmail.com
-phone: **(+84) 907060401** | Ho Chi Minh, Vietnam
+phone: (+84) 907060401 | Ho Chi Minh, Vietnam
 Address: Ho Chi Minh, Vietnam
 
 # website: www.github.com/sproogen/resume-theme
@@ -34,9 +34,9 @@ linkedin_username: reedus
 
 # Additional icon links
 additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+- title: Location
+  icon: fas fa-globe
+  url: https://goo.gl/maps/7hL1KTYAgQnMWHeX8
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
