@@ -8,9 +8,8 @@ version: 2
 # Personal info
 name: Khanh Quang Chung
 title: Senior Embedded Software Developer
-email: reedus.chung@gmail.com
-phone: (+84) 907060401
-a: fdfdd
+email: reedus.chung@gmail.com | s
+phone: (+84) 907060401 | s
 
 # website: www.github.com/sproogen/resume-theme
 
@@ -34,9 +33,9 @@ darkmode: false
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
