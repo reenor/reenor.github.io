@@ -55,8 +55,11 @@ about_content: | # this will include new lines to allow paragraphs
   
   My name is Khanh, and I'm a careful embedded software developer with over 6 years experience.
   In addition, I also have 2 years experience of working as a DevOps engineer guy.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Don't have a lot on my plate like before, I'm currently just teaching some courses relating to programming at the university level.
+  
+  I enjoy thinking deeply before writing code as well as having a curious mindset on how the different components fit together.
+  I haved work with various languages, IDEs, Development Boards, Peripherals, and I'm really inspired by opportunities to work with something new but practical.
+  Moreover, I also gained a strong background in algorithm throughout a couple of years as a researcher.
 
 content:
   - title: Projects # Title for the section
