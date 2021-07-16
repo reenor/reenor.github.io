@@ -66,7 +66,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: top-middle
         title: Bachelor of Computer Science 
         caption: 2006 - 2009
         sub_title: University of Science
