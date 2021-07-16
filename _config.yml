@@ -66,12 +66,12 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Bachelor of Computer Science
-        caption: 2006 - 2009
+      - layout: top
+        title: Bachelor of Computer Science, 2009
         sub_title: University of Science, Vietnam National University - Ho Chi Minh City
+        caption: Rank: Excellent
         quote: >
-          Rank: Excellent
+          
         description: | # this will include new lines to allow paragraphs
           
 
@@ -111,7 +111,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## Bachelor of Computer Science
+      ## **Bachelor of Computer Science**
       
       University:            **University of Science, Vietnam National University - Ho Chi Minh City**
       
@@ -125,9 +125,10 @@ content:
       
       
       
-      **Bachelor**
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
       
-      fdfdfdfdfdfd *fdfdf* 
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
       
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rock climbing
