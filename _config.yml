@@ -68,8 +68,8 @@ content:
     content:
       - layout: top
         title: Bachelor of Computer Science, 2009
-        sub_title: University of Science, Vietnam National University - Ho Chi Minh City
-        caption: Excellent of rank
+        sub_title: Excellent of rank
+        caption: University of Science, Vietnam National University - Ho Chi Minh City
         quote: >
           
         description: | # this will include new lines to allow paragraphs
