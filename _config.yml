@@ -70,11 +70,11 @@ content:
         title: Bachelor of Computer Science
         caption: 2006 - 2009
         sub_title: University of Science, Vietnam National University - Ho Chi Minh City
+        link: github.com/sproogen
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Thesis... Grade...
         description: | # this will include new lines to allow paragraphs
-          - fdfdfd
-          - fdfdfd
+          
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
