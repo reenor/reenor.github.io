@@ -111,11 +111,15 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      # H
+      # Bachelor of Computer Science
+      University:            **University of Science, Vietnam National University - Ho Chi Minh City**
+      Falcuty:               Information Technology
+      Date of graduation:    2009
+      Rank:                  Excellent
       
-      ## H
+      # Master of Computer Science
       
-      ### H
+      
       
       **Bachelor**
       
