@@ -111,6 +111,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+      **Bachelor**
+      *fdfdf* fdfdfdfdfdfd
+      
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rock climbing
       - Gaming
