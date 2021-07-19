@@ -97,22 +97,21 @@ content:
             Every company needs its networks
             
       - layout: left
-        title: ZenithTek Co., Ltd
-        # link: https://www.selab.hcmus.edu.vn
-        # link_text: boringcompany.com
-        sub_title: Embedded Software Engineer, Co-Founder
+        title: Embedded Software Engineer, Co-Founder
+        sub_title: ZenithTek Co., Ltd
         caption: 02/2012 - Dec 2015
         quote: >
           ZenithTek was a hightech startup founded in Vietnam in 2012 in which we mainly focused on improving operational effeciency of firms.
         description: | # this will include new
-      
-      - layout: left
+          + Lead 
+      - layout: top
         title: Embedded Software Internship
         sub_title: NXP Semiconductors Vietnam
         caption: 09/2008 - 11/2008
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          The Lab where I was doing my thesis at had 
         description: | # this will include new lines to allow paragraphs
+          + Developed a lightweight USB host running on the MCB2388 evaluation board.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
