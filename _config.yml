@@ -94,7 +94,7 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks
+          + 
             
       - layout: top
         title: Embedded Software Engineer, Co-Founder
@@ -104,6 +104,7 @@ content:
           ZenithTek was a hightech startup founded in Vietnam in 2012 in which we mainly focused on improving operational effeciency of firms.
         description: | # this will include new
           + Lead 
+
       - layout: top
         title: Embedded Software Internship
         sub_title: NXP Semiconductors Vietnam
