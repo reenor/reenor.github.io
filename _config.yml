@@ -109,9 +109,9 @@ content:
         sub_title: NXP Semiconductors Vietnam
         caption: 09/2008 - 11/2008
         quote: >
-          The Lab where I did my thesis at had established a partner relationship with NXP Vietnam; therefore, I had a chance to carry out the thesis under expert guidance.
+          The Lab where I did my thesis at had established a partner relationship with NXP Vietnam; therefore, I luckily had a chance to carry out the thesis under expert guidance and the professional workplace.
         description: | # this will include new lines to allow paragraphs
-          + Developed a lightweight USB host library running on the MCB2388 evaluation board. The library complied with USB 2.0 Specification and supported three USB device classes including Audio Device, Human Interface Device (HID) and Mass Storage Device (MSD).
+          + Developed a lightweight USB host library running on the MCB2388 evaluation board. This library complies with USB 2.0 Specification and provides three USB classes including Audio, Human Interface Device (HID) and Mass Storage.
           + Applied version control principle to manage and track changes to code and assets across the USB project using SVN software.
 
   - title: Projects # Title for the section
