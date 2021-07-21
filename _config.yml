@@ -86,11 +86,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: Software Engineering Lab
-        link: https://www.selab.hcmus.edu.vn
-        # link_text: boringcompany.com
-        sub_title: Embedded Software Researcher
+        title: Embedded Software Researcher
+        sub_title: Software Engineering Lab
         caption: 12/2009 - 09/2015
+        link: https://www.selab.hcmus.edu.vn
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
