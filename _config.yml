@@ -109,9 +109,10 @@ content:
         sub_title: NXP Semiconductors Vietnam
         caption: 09/2008 - 11/2008
         quote: >
-          The Lab where I was doing my thesis at had 
+          The Lab where I did my thesis at had established a partner relationship with NXP Vietnam; therefore, I had a chance to carry out the thesis under expert guidance.
         description: | # this will include new lines to allow paragraphs
-          + Developed a lightweight USB host running on the MCB2388 evaluation board.
+          + Developed a lightweight USB host library running on the MCB2388 evaluation board. The library supported three USB device classes including Audio, Human Interface Device and Mass Storage. 
+          + fd
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
