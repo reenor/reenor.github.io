@@ -85,21 +85,21 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Software Engineering Lab (SELab)
+      - layout: top
+        title: Software Engineering Lab
         link: https://www.selab.hcmus.edu.vn
         # link_text: boringcompany.com
         sub_title: Embedded Software Researcher
-        caption: 2009 - 2015
+        caption: 12/2009 - 09/2015
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks
             
-      - layout: left
+      - layout: top
         title: Embedded Software Engineer, Co-Founder
         sub_title: ZenithTek Co., Ltd
-        caption: 02/2012 - Dec 2015
+        caption: 02/2012 -  07/2015
         quote: >
           ZenithTek was a hightech startup founded in Vietnam in 2012 in which we mainly focused on improving operational effeciency of firms.
         description: | # this will include new
