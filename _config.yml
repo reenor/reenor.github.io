@@ -103,7 +103,12 @@ content:
           ZenithTek was a hightech startup founded in Vietnam in 2012 in which we mainly focused on improving operational effeciency of firms.
           The company went out of business after three years.
         description: | # this will include new
-          + Led embedded team to build a compact device named "Mini Terminal" that is similar to Raspberry PI.
+          + Led an embedded team to build a compact device named "Mini Terminal" that is similar to Raspberry PI. In order to make it,
+          we chose STM32F4 series from ST as the main MCU and FreeRTOS as the real-time os for applications.
+          + 
+          + Deployed nearly 150 devices which closely integrated with our web applications on quality control lines in client's factories.
+          + The good news was that devices can completely replaced paperwork and improved performance around 20%.
+          
 
       - layout: top
         title: Embedded Software Internship
