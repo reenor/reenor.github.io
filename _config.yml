@@ -105,10 +105,11 @@ content:
         description: | # this will include new
           + Led an embedded team to build a compact device named "Mini Terminal" that is similar to Raspberry PI. In order to make it,
           we chose STM32F4 series from ST as the main MCU and FreeRTOS as the real-time os for applications.
-          + 
+          + We also created a hacked version of [this tape dispenser](https://www.ectinc.co.jp/en_products_detail/en-m-800/) in which an in-house board
+          was injected into their original one to make it smarter. 
           + Deployed nearly 150 devices which closely integrated with our web applications on quality control lines in client's factories.
-          + The good news was that devices can completely replaced paperwork and improved performance around 20%.
-          
+          + The good news was that devices completely replaced paperwork and improved performance around 20%.
+          + Played a role in HR and Office Administrator.
 
       - layout: top
         title: Embedded Software Internship
