@@ -87,11 +87,11 @@ content:
     content:
       - layout: top
         title: Embedded Software Researcher
-        sub_title: Software Engineering Lab
+        sub_title: Software Engineering Laboratory
         caption: 12/2009 - 09/2015
         link: https://www.selab.hcmus.edu.vn
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          SELab was established in 2002 where I gained knowledge from research and leveled up my skills. I always appreciate the time  
         description: | # this will include new lines to allow paragraphs
           + 
             
@@ -116,7 +116,7 @@ content:
         sub_title: NXP Semiconductors Vietnam
         caption: 09/2008 - 11/2008
         quote: >
-          The Lab where I did my thesis at had established a partner relationship with NXP Vietnam; therefore, I luckily had a chance to carry out the thesis
+          The laboratory where I did my thesis at had established a partner relationship with NXP Vietnam; therefore, I luckily had a chance to carry out the thesis
           under expert guidance and the professional workplace.
         description: | # this will include new lines to allow paragraphs
           + Developed a lightweight USB host library running on the MCB2388 evaluation board. This library complies with USB 2.0 Specification
