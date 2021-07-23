@@ -111,10 +111,10 @@ content:
         caption: 12/2009 - 09/2015
         link: https://www.selab.hcmus.edu.vn
         quote: >
-          SELab was established in 2002 where I significantly gained knowledge from various types of research and leveled up my skills. I very much appreciate the time everybody spent
-          for me when I was here.
+          SELab was established in 2002 where I significantly gained knowledge from various types of research and leveled up my skills. I very much
+          appreciate the time everybody spent for me when I was here.
         description: | # this will include new lines to allow paragraphs
-          + 
+          + Built an ASM/C Compiler for a domestic 8-bit MCU named SG8V1. 
             
       - layout: top
         title: Embedded Software Engineer, Co-Founder
