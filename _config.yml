@@ -114,7 +114,10 @@ content:
           SELab was established in 2002 where I significantly gained knowledge from various types of research and leveled up my skills. I very much
           appreciate the time everybody spent for me when I was here.
         description: | # this will include new lines to allow paragraphs
-          + Built an ASM/C Compiler for a domestic 8-bit MCU named SG8V1. 
+          + Developed an ASM/C Compiler for a domestic 8-bit MCU named SG8V1.
+          + Built a time attendance system on (S3C2440 ARM9 board)[http://www.friendlyarm.net/products/mini2440]. The cool thing was that
+          each user's fingerprint was stored in their RFID tag instead of using a centralized database.
+          + Built a MIFARE reader/writer on (RC522 MCU)[https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf].
             
       - layout: top
         title: Embedded Software Engineer, Co-Founder
