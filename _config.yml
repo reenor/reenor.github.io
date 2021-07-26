@@ -116,11 +116,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           + Developed an ASM/C Compiler for a domestic 8-bit MCU named SG8V1.
           + Built a time attendance system on [S3C2440 ARM9](http://www.friendlyarm.net/products/mini2440) board. The cool thing is that
-          each user's fingerprint is stored in their RFID tag instead of using a centralized database.
+          each user's fingerprint minutiae is stored in their RFID tag instead of using a centralized database.
           + Built a MIFARE reader/writer using [RC522](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf) MCU. This reader supports various kinds of MIFARE,
           such as 1K/4K, Ultralight and DESFire EV1.
-          + 
-            
+          + Created a data capture device via RS232 interface. This device will be plugged into a bill printer to collect every single byte of data printed.
+          
       - layout: top
         title: Embedded Software Engineer, Co-Founder
         sub_title: ZenithTek Co., Ltd
