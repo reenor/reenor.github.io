@@ -107,7 +107,7 @@ content:
 
       - layout: top
         title: Embedded Software Researcher
-        sub_title: Software Engineering Laboratory
+        sub_title: Software Engineering Laboratory, University of Science, Vietnam National University - Ho Chi Minh City
         caption: 12/2009 - 09/2015
         link: https://www.selab.hcmus.edu.vn
         quote: >
@@ -120,7 +120,8 @@ content:
           + Built a MIFARE reader/writer using [RC522](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf) MCU. This reader supports various kinds of MIFARE,
           such as 1K/4K, Ultralight and DESFire EV1.
           + Created a data capture device via RS232 interface. This device will be plugged into a bill printer to collect every single byte of data printed.
-          + Renesas Racing...
+          + Played Technical Manager role in [Renesas Racing Car](https://www.renesas.com/us/en/about/car-rally) which has been held at University of Science
+          for every student in the Southern of Vietnam.
       - layout: top
         title: Embedded Software Engineer, Co-Founder
         sub_title: ZenithTek Co., Ltd
@@ -135,7 +136,7 @@ content:
           was injected into their original one to make it smarter. 
           + Deployed nearly 150 devices which closely integrated with our web applications on quality control lines in client's factories.
           + The good news was that devices completely replaced paperwork and improved performance around 20%.
-          + Played a role in HR and Office Administrator.
+          + Played HR and Office Administrator role.
 
       - layout: top
         title: Embedded Software Internship
