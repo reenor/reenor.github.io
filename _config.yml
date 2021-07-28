@@ -101,7 +101,8 @@ content:
         caption: 08/2017 - 04/2021
         link: https://www.leanwell.co
         quote: >
-          The company aims to make a whole system for manufacturing operations management (MOM) for small enterprises in Vietnam.
+          The company aims to make a whole system for manufacturing operations management [MOM](https://blog.lnsresearch.com/whats-the-difference-between-mom-mes)
+          for small enterprises in Vietnam.
         description: | # this will include new lines to allow paragraphs
           + Led an IoT team to research and build product series including [LEANWELL IoT and LEANWELL IoT Wifi,](https://www.leanwell.co/products/iot/internet-of-things-iot-factory)
           [Wifi Temperature and Humidity Sensor](https://www.leanwell.co/products/iot/hard-ware-2), Wifi AirQuality Sensor.
