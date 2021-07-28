@@ -103,7 +103,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          + 
+          1. Led an IoT team to research and build product series
 
       - layout: top
         title: Embedded Software Researcher
