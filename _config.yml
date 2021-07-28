@@ -105,10 +105,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           + Led an IoT team to research and build product series including [LEANWELL IoT and LEANWELL IoT Wifi,](https://www.leanwell.co/products/iot/internet-of-things-iot-factory)
           [Wifi Temperature and Humidity Sensor](https://www.leanwell.co/products/iot/hard-ware-2), Wifi AirQuality Sensor.
+          + And deployed 500+ above products in factories of three clients.
           + Managed to bridge the gap between software development team and IT operation guys at client site: deploy software release as quick as possible,
           ensure services are easily scalable as well as having ability of high availability, protect servers against hackers and viruses.
-          + Played purchasing role
-          
+          + Played the role of purchasing relating to various electronic components.
 
       - layout: top
         title: Embedded Software Researcher
@@ -138,7 +138,7 @@ content:
           + Led an embedded team to build a compact device named "Mini Terminal" that is similar to Raspberry PI. In order to make it,
           we chose STM32F4 series from ST as the main MCU and FreeRTOS as the real-time os for applications.
           + We also created a hacked version of [this tape dispenser](https://www.ectinc.co.jp/en_products_detail/en-m-800/) in which an in-house board
-          was injected into their original one to make it smarter. 
+          was injected into their original one to make it smarter.
           + Deployed nearly 150 devices which closely integrated with our web applications on quality control lines in client's factories.
           + The good news was that devices completely replaced paperwork and improved performance around 20%.
           + Played HR and Office Administrator role.
