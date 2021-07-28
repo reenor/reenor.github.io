@@ -103,7 +103,12 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          - Led an IoT team to research and build product series
+          + Led an IoT team to research and build product series including [LEANWELL IoT and LEANWELL IoT Wifi,](https://www.leanwell.co/products/iot/internet-of-things-iot-factory)
+          [Wifi Temperature and Humidity Sensor](https://www.leanwell.co/products/iot/hard-ware-2), Wifi AirQuality Sensor.
+          + Managed to bridge the gap between software development team and IT operation guys at client site: deploy software release as quick as possible,
+          ensure services are easily scalable as well as having ability of high availability, protect servers against hackers and viruses.
+          + Played purchasing role
+          
 
       - layout: top
         title: Embedded Software Researcher
@@ -117,7 +122,7 @@ content:
           + Developed an ASM/C Compiler for a domestic 8-bit MCU named SG8V1.
           + Built a time attendance system on [S3C2440 ARM9](http://www.friendlyarm.net/products/mini2440) board. The cool thing is that
           each user's fingerprint minutiae is stored in their RFID tag instead of using a centralized database.
-          + Built a MIFARE reader/writer using [RC522](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf) MCU. This reader supports various kinds of MIFARE,
+          + Built a MIFARE reader/writer using [RC522](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf) MCU. This reader supports various kinds of MIFARE tag,
           such as 1K/4K, Ultralight and DESFire EV1.
           + Created a data capture device via RS232 interface. This device will be plugged into a bill printer to collect every single byte of data printed.
           + Played Technical Manager role in [Renesas Car Rally](https://www.renesas.com/us/en/about/car-rally) which has been held at University of Science
