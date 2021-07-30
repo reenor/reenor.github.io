@@ -93,6 +93,11 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
+          + Teached Embedded Systems Programming course which is about microcontroller programming for senior students. It is built around [STM32F429I-DISCO](https://www.st.com/en/evaluation-tools/32f429idiscovery.html)
+          kit.
+          + Composed a syllabus for Embedded Systems Design course which is based on ?.
+          + Teached Microprocessor and Microcontroller course for junior students. This course aims to introduce Intel 16-bit 8086 and 8-bit 8051.
+          + OS
           + 
 
       - layout: top
