@@ -1,6 +1,6 @@
 # The Reenor's resume
 
-## Link
+## Take a look at
 - https://reenor.github.io
 
 ## Reference
