@@ -53,7 +53,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Dear Sir/Madam,
   
-  My name is Khanh, and I'm a careful embedded software developer with over 6 years of experience.
+  My name is Khanh, and I'm a careful embedded software engineer with more than 8 years of experience.
   In addition, I also have 2 years experience of working as a DevOps engineer guy.
   Don't have a lot on my plate like before, I'm currently just teaching some courses relating to programming at the university level.
   
@@ -183,31 +183,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## **Bachelor of Computer Science**
-      
-      University:            **University of Science, Vietnam National University - Ho Chi Minh City**
-      
-      Falcuty:               Information Technology
-      
-      Date of graduation:    2009
-      
-      Rank:                  Excellent
-      
-      ## Master of Computer Science
-      
-      
-      
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
       
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
-      
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
