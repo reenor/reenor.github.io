@@ -61,6 +61,8 @@ about_content: | # this will include new lines to allow paragraphs
   I have worked with various languages, IDEs, Development Boards, Peripherals, and I'm really inspired by opportunities to work with something new but practical.
 
   Moreover, I also gained a strong background in algorithms throughout a couple of years as a researcher.
+  
+  Working in your company will be my best opportunity to show you my best. I'm looking forward to hearing answer from you soon.
 
 content:
   - title: Education # Title for the section
@@ -97,7 +99,7 @@ content:
           kit.
           + Teached Embedded Systems Design course which is based on [STM32F4G-DISC1](https://www.st.com/en/evaluation-tools/stm32f4discovery.html).
           + Teached Microprocessor and Microcontroller course for junior students. This course aims to introduce Intel 16-bit 8086 and 8-bit 8051.
-          + Teached Operating System course for sophomores.
+          + Teached Operating System course for sophomore students.
 
       - layout: top
         title: IoT Team Leader, DevOps Engineer, Co-Founder
@@ -159,34 +161,6 @@ content:
           + Developed a lightweight USB host library running on the MCB2388 evaluation board. This library complies with USB 2.0 Specification
           and provides three USB classes including Audio, Human Interface Device (HID) and Mass Storage.
           + Applied version control principle to manage and track changes to code and assets across the USB project using SVN software.
-
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
