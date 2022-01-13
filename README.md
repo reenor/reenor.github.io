@@ -26,6 +26,14 @@
 - Graphic LCD 128x64
 - Electric tape dispenser
 
+### Modules, ICs
+- ESP8266, ESP32
+- STM32F4xx, STM8Sxx
+- R301T
+- ENC424J600
+- DS18B20
+- RC522
+
 ## Take a look at
 - https://reenor.github.io
 
