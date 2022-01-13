@@ -9,6 +9,8 @@
 - DMA
 - SDIO
 - Modbus
+- LwESP
+- 
 
 ### 3rd party lib
 - Fasfs
