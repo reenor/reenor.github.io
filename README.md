@@ -9,8 +9,6 @@
 - DMA
 - SDIO
 - Modbus
-- LwESP
-- 
 
 ### 3rd party lib
 - Fasfs
@@ -20,6 +18,8 @@
 - libcsv
 - slre
 - http_parser
+- mongoose
+- LwESP
 
 ### In-house lib
 - Mifare
@@ -33,7 +33,7 @@
 - STM32F4xx, STM8Sxx
 - R301T
 - ENC424J600
-- DS18B20
+- DS18B20, SHT3x
 - RC522
 
 ## Take a look at
