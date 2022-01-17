@@ -69,7 +69,7 @@ content:
     content:
       - layout: top-middle
         title: Bachelor of Computer Science, 2009
-        sub_title: University of Science, Vietnam National University - Ho Chi Minh City
+        sub_title: University of Science, Vietnam National University (VNU-HCM)
         caption: Excellent grade
         quote: >
           
@@ -77,7 +77,7 @@ content:
         
       - layout: top-middle
         title: Master of Computer Science, 2012
-        sub_title: University of Science, Vietnam National University - Ho Chi Minh City
+        sub_title: University of Science, Vietnam National University (VNU-HCM)
         caption: Defended MSc thesis on topic "Study on Tag Anti-Collison using Time Division Multiple Access approach for the SELab MIFARE reader" with the mark as Excellent
         quote: >
           
@@ -88,7 +88,7 @@ content:
     content:
       - layout: top
         title: Lecturer
-        sub_title: Department of Embedded Systems and Robotics, University of Information Technology, Vietnam National University - Ho Chi Minh City
+        sub_title: Department of Embedded Systems and Robotics, University of Information Technology, Vietnam National University (VNU-HCM)
         caption: 10/2015 - Now
         link: https://en.uit.edu.vn
         quote: >
@@ -101,24 +101,24 @@ content:
           + Teached Operating System course for sophomore students.
 
       - layout: top
-        title: IoT Team Leader, DevOps Engineer, Co-Founder
+        title: IoT Team Leader, DevOps Engineer, Self-employed
         sub_title: Leanwell Technology Co., Ltd
         caption: 08/2017 - 04/2021
         link: https://www.leanwell.co
         quote: >
           The company aims to make a whole system for manufacturing operations management (MOM) for small enterprises in Vietnam.
         description: | # this will include new lines to allow paragraphs
-          + Led an IoT team to research and build product series including [LEANWELL IoT and LEANWELL IoT Wifi,](https://www.leanwell.co/products/iot/internet-of-things-iot-factory)
+          + Led an IoT team with 3 members to research and build product series including [LEANWELL IoT and LEANWELL IoT Wifi,](https://www.leanwell.co/products/iot/internet-of-things-iot-factory)
           [Wifi Temperature and Humidity Sensor](https://www.leanwell.co/products/iot/hard-ware-2), Wifi AirQuality Sensor.
-          + And deployed 500+ above products in factories for three clients.
-          + Managed to bridge the gap between the software development team and IT operation guys at the client site: deploy software releases as quick as possible,
-          ensure services are easily scalable as well as having ability of high availability, protect servers against hackers and viruses.
+          + Deployed 500+ above products in factories for three clients.
+          + Managed to bridge the gap between the software development team and IT operation guys at the client site: deploy software releases as quickly as possible,
+          ensure services are easily scalable as well as having ability of high availability, protect servers against hackers.
           + Played the role of purchasing relating to various electronic components.
           + Set up the production process of all company products.
 
       - layout: top
         title: Embedded Software Researcher
-        sub_title: Software Engineering Laboratory, University of Science, Vietnam National University - Ho Chi Minh City
+        sub_title: Software Engineering Laboratory, University of Science, Vietnam National University (VNU-HCM)
         caption: 12/2009 - 09/2015
         link: https://www.selab.hcmus.edu.vn
         quote: >
@@ -134,27 +134,25 @@ content:
           + Played Technical Manager role in [Renesas Car Rally](https://www.renesas.com/us/en/about/car-rally) which has been held at University of Science
           for every student in the Southern of Vietnam. [Take a look](https://www.youtube.com/watch?v=y6xDSP0UO4M) at how this race is funny.
       - layout: top
-        title: Embedded Software Engineer, Co-Founder
+        title: Embedded Software Engineer, Self-employed
         sub_title: ZenithTek Co., Ltd
         caption: 02/2012 -  07/2015
         quote: >
           ZenithTek was a hightech startup founded in Vietnam in 2012 in which we mainly focused on improving operational effeciency of firms.
           The company went out of business after three years.
         description: | # this will include new
-          + Led an embedded team to build a compact device named "Mini Terminal" that is similar to Raspberry PI. In order to make it,
+          + Worked with a hardware guy to design and develop a compact device named "Mini Terminal" that is similar to Raspberry PI. In order to make it,
           we chose STM32F4 series from ST as the main MCU and FreeRTOS as the real-time os for applications.
-          + We also created a hacked version of [this tape dispenser](https://www.ectinc.co.jp/en_products_detail/en-m-800/) in which an in-house board
-          was injected into their original one to make it smarter.
-          + Deployed nearly 150 devices which closely integrated with our web applications on quality control lines in client's factories.
-          + The good news was that devices completely replaced paperwork and improved performance around 20%.
-          + Played HR and Office Administrator role.
+          + Created a hacked version of the tape dispenser named "M-800 Entry" in which an in-house board was injected into their original one to make it smarter.
+          + Deployed nearly 150 Mini Terminal devices that closely integrated with our web applications on quality control lines in client’s factories => completely replaced paperwork and improved performance by around 20%.
+          + Played Office Administrator role.
 
       - layout: top
         title: Embedded Software Internship
         sub_title: NXP Semiconductors Vietnam
         caption: 09/2008 - 11/2008
         quote: >
-          The laboratory where I did my thesis at had established a partner relationship with NXP Vietnam; therefore, I luckily had a chance to carry out the thesis
+          The laboratory where I did my thesis had established a partner relationship with NXP Vietnam; therefore, I luckily had a chance to carry out the thesis
           under expert guidance and the professional workplace.
         description: | # this will include new lines to allow paragraphs
           + Developed a lightweight USB host library running on the MCB2388 evaluation board. This library complies with USB 2.0 Specification
