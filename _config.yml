@@ -103,7 +103,7 @@ content:
       - layout: top
         title: IoT Team Leader, DevOps Engineer, Self-employed
         sub_title: Leanwell Technology Co., Ltd
-        caption: 08/2017 - 04/2021
+        caption: 08/2017 - 01/2022
         link: https://www.leanwell.co
         quote: >
           The company aims to make a whole system for manufacturing operations management (MOM) for small enterprises in Vietnam.
@@ -130,7 +130,7 @@ content:
           each user's fingerprint minutiae is stored in their RFID tag instead of using a centralized database.
           + Built a MIFARE reader/writer using [RC522](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf) MCU. This reader supports various kinds of MIFARE tag,
           such as 1K/4K, Ultralight and DESFire EV1.
-          + Created a data capture device via RS232 interface. This device will be plugged into a bill printer to collect every single byte of data printed.
+          + Created a data capture device via RS232 & USB interface. This device will be plugged into a bill printer to collect every single byte of data printed.
           + Played Technical Manager role in [Renesas Car Rally](https://www.renesas.com/us/en/about/car-rally) which has been held at University of Science
           for every student in the Southern of Vietnam. [Take a look](https://www.youtube.com/watch?v=y6xDSP0UO4M) at how this race is funny.
       - layout: top
