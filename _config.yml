@@ -87,19 +87,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  
+        # title:
         sub_title: Development boards
         # caption: 10/2015 - Now
         # link: https://en.uit.edu.vn
         # quote: >
         description: | # this will include new lines to allow paragraphs
           + a
-
       - layout: left
-        # title:  
-        sub_title: Development boards
+        sub_title: Platforms and IDEs
         description: | # this will include new lines to allow paragraphs
           + a
+      - layout: left
+        sub_title: Third party libraries
+        description: | # this will include new lines to allow paragraphs
+          a
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
