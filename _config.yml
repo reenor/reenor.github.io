@@ -86,8 +86,8 @@ content:
   - title: Tech stack # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
-        title: Development kits
+      - layout: left
+        title: Development boards
         caption: 10/2015 - Now
         # link: https://en.uit.edu.vn
         # quote: >
