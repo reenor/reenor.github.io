@@ -88,20 +88,28 @@ content:
     content:
       - layout: left
         # title:
-        sub_title: Development boards
+        sub_title: Development boards, MCUs, Modules
         # caption: 10/2015 - Now
         # link: https://en.uit.edu.vn
         # quote: >
         description: | # this will include new lines to allow paragraphs
-          + STM32F4G-DISC1, STM32F429I-DISCO, MCB2300, 
+          + STM32F4G-DISC1, STM32F429I-DISCO, Raspberry Pi, MSP430 LaunchPad, FriendlyARM Mini2440, MCB2300
+          + STM32F407, STM8S103F3, ESP8266, ESP32, ENC424J600, DS18B20, SHT3x, PN532
+          + R301T Fingerprint, StrongLink MIFARE reader
       - layout: left
         sub_title: Platforms and IDEs
         description: | # this will include new lines to allow paragraphs
-          + a
+          + Bare Metal, FreeRTOS, Embedded Linux
+          + Keil, IAR, GNU Toolchain
       - layout: left
         sub_title: Protocols
         description: | # this will include new lines to allow paragraphs
-          + a
+          + USB Host: Humnan Interface Device (HID), Mass Storage Device (MSD), Audio Device
+          + Networks: Websocket, MQTT
+          + RS232, SPI, I2C
+          + 1-Wire
+          + Modbus
+          + ISO 14443 Type A (MIFARE)
       - layout: left
         sub_title: Third party libraries
         description: | # this will include new lines to allow paragraphs
