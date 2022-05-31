@@ -99,13 +99,13 @@ content:
       - layout: left
         sub_title: Platforms and IDEs
         description: | # this will include new lines to allow paragraphs
-          + Bare Metal, FreeRTOS, Embedded Linux
+          + Bare Metal, RTOS, Embedded Linux
           + Keil, IAR, GNU Toolchain
       - layout: left
         sub_title: Protocols
         description: | # this will include new lines to allow paragraphs
           + USB Host: Humnan Interface Device (HID), Mass Storage Device (MSD), Audio Device
-          + Networks: Websocket, MQTT
+          + Networks: Websocket, MQTT, HTTP
           + RS232, SPI, I2C
           + 1-Wire
           + Modbus
@@ -113,15 +113,26 @@ content:
       - layout: left
         sub_title: Third party libraries
         description: | # this will include new lines to allow paragraphs
-          + 
+          + FreeRTOS
+          + lwIP
+          + FatFs
+          + jsmn, libcsv, slre
+          + LwESP
+          + Mongoose networking library
       - layout: left
         sub_title: In-house libraries
         description: | # this will include new lines to allow paragraphs
-          + 
+          + Mifare
+          + Fingerprint
+          + Electric scale
+          + Graphic LCD 128x64
+          + Electric tape dispenser
       - layout: left
         sub_title: Programming languages
         description: | # this will include new lines to allow paragraphs
-          + 
+          + Assembly: 8051, ARM
+          + C
+          + C++
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -134,9 +145,9 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          + Teached Embedded Systems Programming course which is about microcontroller programming for senior students. It is built around [STM32F429I-DISCO](https://www.st.com/en/evaluation-tools/32f429idiscovery.html)
+          + Teached Embedded Systems Programming course which is about microcontroller programming for senior students.
           kit.
-          + Teached Embedded Systems Design course which is based on [STM32F4G-DISC1](https://www.st.com/en/evaluation-tools/stm32f4discovery.html).
+          + Teached Embedded Systems Design course.
           + Teached Microprocessor and Microcontroller course for junior students. This course aims to introduce Intel 16-bit 8086 and 8-bit 8051.
           + Teached Operating System course for sophomore students.
 
