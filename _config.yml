@@ -87,7 +87,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Development boards
+        title:  
+        sub_title: Development boards
         caption: 10/2015 - Now
         # link: https://en.uit.edu.vn
         # quote: >
