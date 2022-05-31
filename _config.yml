@@ -93,15 +93,27 @@ content:
         # link: https://en.uit.edu.vn
         # quote: >
         description: | # this will include new lines to allow paragraphs
-          + a
+          + STM32F4G-DISC1, STM32F429I-DISCO, MCB2300, 
       - layout: left
         sub_title: Platforms and IDEs
         description: | # this will include new lines to allow paragraphs
           + a
       - layout: left
+        sub_title: Protocols
+        description: | # this will include new lines to allow paragraphs
+          + a
+      - layout: left
         sub_title: Third party libraries
         description: | # this will include new lines to allow paragraphs
-          a
+          + 
+      - layout: left
+        sub_title: In-house libraries
+        description: | # this will include new lines to allow paragraphs
+          + 
+      - layout: left
+        sub_title: Programming languages
+        description: | # this will include new lines to allow paragraphs
+          + 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
