@@ -159,13 +159,12 @@ content:
         quote: >
           The company aims to make a whole system for manufacturing operations management (MOM) for small enterprises in Vietnam.
         description: | # this will include new lines to allow paragraphs
-          + Led an IoT team with 3 members to research and build product series including [LEANWELL IoT and LEANWELL IoT Wifi,](https://www.leanwell.co/products/iot/internet-of-things-iot-factory)
-          [Wifi Temperature and Humidity Sensor](https://www.leanwell.co/products/iot/hard-ware-2), Wifi AirQuality Sensor.
-          + Deployed 500+ above products in factories for three clients.
-          + Managed to bridge the gap between the software development team and IT operation guys at the client site: deploy software releases as quickly as possible,
+          + Led an IoT team of 3 staffs to research and build all products.
+          + Deployed 500+ above products at clients' factories.
+          + Managed to bridge the gap between the software development team and IT operation guys at the client sites: deploy software releases as quickly as possible,
           ensure services are easily scalable as well as having ability of high availability, protect servers against hackers.
           + Played the role of purchasing relating to various electronic components.
-          + Set up the production process of all company products.
+          + Set up mass production processes of all company products.
 
       - layout: top
         title: Embedded Software Researcher
