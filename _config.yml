@@ -146,9 +146,8 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           + Teached Embedded Systems Programming course which is about microcontroller programming for senior students.
-          kit.
           + Teached Embedded Systems Design course.
-          + Teached Microprocessor and Microcontroller course for junior students. This course aims to introduce Intel 16-bit 8086 and 8-bit 8051.
+          + Teached Microprocessor and Microcontroller course for junior students.
           + Teached Operating System course for sophomore students.
 
       - layout: top
