@@ -54,14 +54,12 @@ about_content: | # this will include new lines to allow paragraphs
   
   My name is Khanh, and I'm a careful software engineer with more than 10 years of experience.
   In addition, I have 2 years experience of working as a DevOps engineer guy.
-  Don't have a lot on my plate like before, I'm currently just teaching some courses relating to programming at the university level.
+  I'm currently working as a freelancer and teaching some courses relating to designing and programming at the university level, 
   
   I enjoy thinking deeply before writing code as well as having a curious mindset on how the different components fit together.
-  I have worked with various languages, IDEs, Development Boards, Peripherals, and I'm really inspired by opportunities to work with something new but practical.
-
-  Besides, I gained a strong background in algorithms throughout a couple of years as a researcher.
+  Working with various languages, IDEs, platforms and frameworks is what I accumulated over years and I'm really inspired by opportunities to work with something new to widen my stack.
   
-  Working in your company will be my best opportunity to show you my best. I'm looking forward to hearing the answer from you soon.
+  Working in your group will be my best opportunity to show you my best. I'm looking forward to hearing the answer from you soon.
 
 content:
   - title: Education # Title for the section
@@ -73,7 +71,7 @@ content:
         caption: Excellent grade
         quote: >
           
-        description: | # this will include new lines to allow paragraphs
+        description:
         
       - layout: top-middle
         title: Master of Computer Science, 2012
@@ -81,86 +79,34 @@ content:
         caption: Defended MSc thesis on topic "Study on Tag Anti-Collison using Time Division Multiple Access approach for the SELab MIFARE reader" with the mark as Excellent
         quote: >
           
-        description: | # this will include new lines to allow paragraphs
-  
-  - title: Tech stack # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        # title:
-        sub_title: Development boards, MCUs, and Modules
-        # caption: 10/2015 - Now
-        # link: https://en.uit.edu.vn
-        # quote: >
-        description: | # this will include new lines to allow paragraphs
-          + STM32F4G-DISC1, STM32F429I-DISCO, Raspberry Pi, MSP430 LaunchPad, FriendlyARM Mini2440, MCB2300
-          + STM32F407, STM8S103F3, ESP8266, ESP32, ENC424J600, DS18B20, SHT3x, PN532, SG8V1
-          + R301T Fingerprint, StrongLink MIFARE reader
-      - layout: left
-        sub_title: Platforms and IDEs
-        description: | # this will include new lines to allow paragraphs
-          + Bare Metal, RTOS, Embedded Linux
-          + Keil, IAR, GNU Toolchain
-      - layout: left
-        sub_title: Protocols
-        description: | # this will include new lines to allow paragraphs
-          + USB Host: Humnan Interface Device (HID), Mass Storage Device (MSD), Audio Device
-          + Networks: Websocket, MQTT, HTTP
-          + RS232, SPI, I2C
-          + 1-Wire
-          + Modbus
-          + ISO 14443 Type A (MIFARE)
-      - layout: left
-        sub_title: Third party libraries
-        description: | # this will include new lines to allow paragraphs
-          + FreeRTOS
-          + lwIP
-          + FatFs
-          + jsmn, libcsv, slre
-          + LwESP
-          + Mongoose networking library
-      - layout: left
-        sub_title: In-house libraries
-        description: | # this will include new lines to allow paragraphs
-          + Mifare
-          + Fingerprint
-          + Electric scale
-          + Graphic LCD 128x64
-          + Electric tape dispenser
-      - layout: left
-        sub_title: Programming languages
-        description: | # this will include new lines to allow paragraphs
-          + Assembly: 8051, ARM
-          + C
-          + C++
+        description:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
         title: Lecturer
-        sub_title: Department of Embedded Systems and Robotics, University of Information Technology, Vietnam National University (VNU-HCM)
+        sub_title: Faculty of Computer Engineering, University of Information Technology, Vietnam National University (VNU-HCM)
         caption: 10/2015 - Now
         link: https://en.uit.edu.vn
         quote: >
 
         description: | # this will include new lines to allow paragraphs
           + Taught Embedded Systems Programming course which is about microcontroller programming for senior students.
-          + Teached Embedded Systems Design course.
+          + Taught Embedded Systems Design course.
           + Taught Microprocessor and Microcontroller course for junior students.
-          + Teached Operating System course for sophomore students.
+          + Taught Operating System course for sophomore students.
 
       - layout: top
         title: IoT Team Leader, DevOps Engineer, Self-employed
         sub_title: Leanwell Technology Co., Ltd
         caption: 08/2017 - 01/2022
-        link: https://www.leanwell.co
         quote: >
           The company aims to make a whole system for manufacturing operations management (MOM) for small enterprises in Vietnam.
         description: | # this will include new lines to allow paragraphs
           + Led an IoT team of 3 staff to research and build all products.
           + Deployed 500+ above products at clients' factories.
-          + Managed to bridge the gap between the software development team and IT operation guys at the client sites: deploy software releases as quickly as possible,
+          + Managed to bridge the gap between the software development team and IT guys at the client sites: deploy software releases as quickly as possible,
           ensure services are easily scalable as well as having ability of high availability, protect servers against hackers.
           + Played the role of purchasing relating to various electronic components.
           + Set up mass production processes of all company products.
@@ -190,10 +136,9 @@ content:
           ZenithTek was a hightech startup founded in Vietnam in 2012 in which we mainly focused on improving operational effeciency of firms.
           The company went out of business after three years.
         description: | # this will include new
-          + Worked with a hardware guy to design and develop a compact device named "Mini Terminal" that is similar to Raspberry Pi. In order to make it,
-          we chose STM32F4 series from ST as the main MCU and FreeRTOS as the real-time os for applications.
+          + Worked with a hardware guy to design and develop a compact device named "Mini Terminal" that is similar to Raspberry Pi.
           + Created a hacked version of the tape dispenser named "M-800 Entry" in which an in-house board was injected into their original one to make it smarter.
-          + Deployed nearly 150 Mini Terminal devices that closely integrated with our web applications on quality control lines in client’s factories => completely replaced paperwork and improved performance by around 20%.
+          + Deployed nearly 150 Mini Terminal devices that closely integrated with our web applications on quality control lines in clients' factories => completely replaced paperwork and improved performance by around 20%.
           + Played Office Administrator role.
 
       - layout: top
