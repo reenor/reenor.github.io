@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Khanh Q. Chung
-title: Senior Embedded Software & DevOps Engineer 
+title: Senior Software & DevOps Engineer
 email: reedus.chung@gmail.com
 phone: (+84) 907060401
 Address: Ho Chi Minh, Vietnam
@@ -36,32 +36,23 @@ additional_links:
 - title: Location
   icon: fas fa-map-marker
   url: https://goo.gl/maps/7hL1KTYAgQnMWHeX8
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Dear Sir/Madam,
-  
-  My name is Khanh, and I'm a careful embedded software engineer with more than 10 years of experience.
+
+  My name is Khanh, and I'm a careful software engineer with more than 10 years of experience.
   In addition, I have 2 years experience of working as a DevOps engineer guy.
-  Don't have a lot on my plate like before, I'm currently just teaching some courses relating to programming at the university level.
-  
+  I'm currently working as a freelancer and teaching some courses relating to designing and programming at the university level,
+
   I enjoy thinking deeply before writing code as well as having a curious mindset on how the different components fit together.
-  I have worked with various languages, IDEs, Development Boards, Peripherals, and I'm really inspired by opportunities to work with something new but practical.
+  Working with various languages, IDEs, platforms and frameworks is what I accumulated over years and I'm really inspired by opportunities to work with something new to widen my stack.
 
   Besides, I gained a strong background in algorithms throughout a couple of years as a researcher.
-  
-  Working in your company will be my best opportunity to show you my best. I'm looking forward to hearing answer from you soon.
+
+  Working in your group will be my best opportunity to show you my best. I'm looking forward to hearing the answer from you soon.
 
 content:
   - title: Education # Title for the section
@@ -71,94 +62,39 @@ content:
         title: Bachelor of Computer Science, 2009
         sub_title: University of Science, Vietnam National University (VNU-HCM)
         caption: Excellent grade
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-        
+        quote:
+        description:
+
       - layout: top-middle
         title: Master of Computer Science, 2012
         sub_title: University of Science, Vietnam National University (VNU-HCM)
-        caption: Defended MSc thesis on topic "Study on Tag Anti-Collison using Time Division Multiple Access approach for the SELab MIFARE reader" with the mark as Excellent
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-  
-  - title: Tech stack # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        # title:
-        sub_title: Development boards, MCUs, and Modules
-        # caption: 10/2015 - Now
-        # link: https://en.uit.edu.vn
-        # quote: >
-        description: | # this will include new lines to allow paragraphs
-          + STM32F4G-DISC1, STM32F429I-DISCO, Raspberry Pi, MSP430 LaunchPad, FriendlyARM Mini2440, MCB2300
-          + STM32F407, STM8S103F3, ESP8266, ESP32, ENC424J600, DS18B20, SHT3x, PN532, SG8V1
-          + R301T Fingerprint, StrongLink MIFARE reader
-      - layout: left
-        sub_title: Platforms and IDEs
-        description: | # this will include new lines to allow paragraphs
-          + Bare Metal, RTOS, Embedded Linux
-          + Keil, IAR, GNU Toolchain
-      - layout: left
-        sub_title: Protocols
-        description: | # this will include new lines to allow paragraphs
-          + USB Host: Humnan Interface Device (HID), Mass Storage Device (MSD), Audio Device
-          + Networks: Websocket, MQTT, HTTP
-          + RS232, SPI, I2C
-          + 1-Wire
-          + Modbus
-          + ISO 14443 Type A (MIFARE)
-      - layout: left
-        sub_title: Third party libraries
-        description: | # this will include new lines to allow paragraphs
-          + FreeRTOS
-          + lwIP
-          + FatFs
-          + jsmn, libcsv, slre
-          + LwESP
-          + Mongoose networking library
-      - layout: left
-        sub_title: In-house libraries
-        description: | # this will include new lines to allow paragraphs
-          + Mifare
-          + Fingerprint
-          + Electric scale
-          + Graphic LCD 128x64
-          + Electric tape dispenser
-      - layout: left
-        sub_title: Programming languages
-        description: | # this will include new lines to allow paragraphs
-          + Assembly: 8051, ARM
-          + C
-          + C++
+        caption: Defended MSc thesis on topic "Study on Tag Anti-Collison using Time Division Multiple Access approach for the MIFARE reader" with the mark as Excellent
+        quote:
+        description:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
         title: Lecturer
-        sub_title: Department of Embedded Systems and Robotics, University of Information Technology, Vietnam National University (VNU-HCM)
+        sub_title: Faculty of Computer Engineering, University of Information Technology, Vietnam National University (VNU-HCM)
         caption: 10/2015 - Now
         link: https://en.uit.edu.vn
-        quote: >
-          
+        quote:
         description: | # this will include new lines to allow paragraphs
-          + Teached Embedded Systems Programming course which is about microcontroller programming for senior students.
-          + Teached Embedded Systems Design course.
-          + Teached Microprocessor and Microcontroller course for junior students.
-          + Teached Operating System course for sophomore students.
+          + Taught Embedded Systems Programming course which is about microcontroller programming for senior students.
+          + Taught Embedded Systems Design course.
+          + Taught Microprocessor and Microcontroller course for junior students.
+          + Taught Operating System course for sophomore students.
 
       - layout: top
         title: IoT Team Leader, DevOps Engineer, Self-employed
         sub_title: Leanwell Technology Co., Ltd
         caption: 08/2017 - 01/2022
-        link: https://www.leanwell.co
         quote: >
           The company aims to make a whole system for manufacturing operations management (MOM) for small enterprises in Vietnam.
         description: | # this will include new lines to allow paragraphs
-          + Led an IoT team of 3 staffs to research and build all products.
+          + Led an IoT team of 3 staff to research and build all products.
           + Deployed 500+ above products at clients' factories.
           + Managed to bridge the gap between the software development team and IT operation guys at the client sites: deploy software releases as quickly as possible,
           ensure services are easily scalable as well as having ability of high availability, protect servers against hackers.
@@ -182,6 +118,7 @@ content:
           + Created a data capture device via RS232 & USB interface. This device will be plugged into a bill printer to collect every single byte of data printed.
           + Played Technical Manager role in [Renesas Car Rally](https://www.renesas.com/us/en/about/car-rally) which has been held at University of Science
           for every student in the Southern of Vietnam. [Take a look](https://www.youtube.com/watch?v=y6xDSP0UO4M) at how this race is fun.
+
       - layout: top
         title: Embedded Software Engineer, Self-employed
         sub_title: ZenithTek Co., Ltd
