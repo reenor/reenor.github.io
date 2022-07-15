@@ -44,11 +44,11 @@ about_content: | # this will include new lines to allow paragraphs
   Dear Sir/Madam,
 
   My name is Khanh, and I'm a careful software engineer with more than 10 years of experience.
-  In addition, I have 2 years experience of working as a DevOps engineer guy.
-  I'm currently working as a freelancer and teaching some courses relating to designing and programming at the university level,
+  In addition, I have 2 years of experience working as a DevOps engineer guy.
+  I'm currently working as a freelancer and teaching some courses relating to designing and programming at the university level.
 
-  I enjoy thinking deeply before writing code as well as having a curious mindset on how the different components fit together.
-  Working with various languages, IDEs, platforms and frameworks is what I accumulated over years and I'm really inspired by opportunities to work with something new to widen my stack.
+  I enjoy thinking deeply before writing code as well as having a curious mindset about how the different components fit together.
+  Working with various languages, IDEs, platforms, and frameworks is what I accumulated over years and I'm really inspired by opportunities to work with something new to widen my tech stack.
 
   Besides, I gained a strong background in algorithms throughout a couple of years as a researcher.
 
@@ -68,7 +68,7 @@ content:
       - layout: top-middle
         title: Master of Computer Science, 2012
         sub_title: University of Science, Vietnam National University (VNU-HCM)
-        caption: Defended MSc thesis on topic "Study on Tag Anti-Collison using Time Division Multiple Access approach for the MIFARE reader" with the mark as Excellent
+        caption: Defended MSc thesis on topic "Study on Tag Anti-Collison using Time Division Multiple Access approaches for the MIFARE reader" with the mark as Excellent
         quote:
         description:
 
@@ -97,7 +97,7 @@ content:
           + Led an IoT team of 3 staff to research and build all products.
           + Deployed 500+ above products at clients' factories.
           + Managed to bridge the gap between the software development team and IT operation guys at the client sites: deploy software releases as quickly as possible,
-          ensure services are easily scalable as well as having ability of high availability, protect servers against hackers.
+          ensure services are easily scalable as well as have the ability of high availability, and protect servers against hackers.
           + Played the role of purchasing relating to various electronic components.
           + Set up mass production processes of all company products.
 
@@ -108,27 +108,27 @@ content:
         link: https://www.selab.hcmus.edu.vn
         quote: >
           SELab was established in 2002 where I significantly gained knowledge from various types of research and leveled up my skills. I very much
-          appreciate the time everybody spent for me when I was here.
+          appreciate the time everybody spent with me when I was here.
         description: | # this will include new lines to allow paragraphs
           + Developed an ASM/C Compiler for a domestic 8-bit MCU named SG8V1.
           + Built a time attendance system on [S3C2440 ARM9](http://www.friendlyarm.net/products/mini2440) board. The cool thing is that
-          each user's fingerprint minutiae is stored in their RFID tag instead of using a centralized database.
-          + Built a MIFARE reader/writer using [RC522](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf) MCU. This reader supports various kinds of MIFARE tag,
-          such as 1K/4K, Ultralight and DESFire EV1.
+          each user's fingerprint minutiae are stored in their RFID tag instead of using a centralized database.
+          + Built a MIFARE reader/writer using [RC522](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf) MCU. This reader supports various kinds of MIFARE tags,
+          such as 1K/4K, Ultralight, and DESFire EV1.
           + Created a data capture device via RS232 & USB interface. This device will be plugged into a bill printer to collect every single byte of data printed.
-          + Played Technical Manager role in [Renesas Car Rally](https://www.renesas.com/us/en/about/car-rally) which has been held at University of Science
-          for every student in the Southern of Vietnam. [Take a look](https://www.youtube.com/watch?v=y6xDSP0UO4M) at how this race is fun.
+          + Played Technical Manager role in [Renesas Car Rally](https://www.renesas.com/us/en/about/car-rally) which has been held at the University of Science
+          for every student in Southern Vietnam. [Take a look](https://www.youtube.com/watch?v=y6xDSP0UO4M) at how this race is fun.
 
       - layout: top
         title: Embedded Software Engineer, Self-employed
         sub_title: ZenithTek Co., Ltd
         caption: 02/2012 -  07/2015
         quote: >
-          ZenithTek was a hightech startup founded in Vietnam in 2012 in which we mainly focused on improving operational effeciency of firms.
+          ZenithTek was a high-tech startup founded in Vietnam in 2012 in which we mainly focused on improving the operational efficiency of firms.
           The company went out of business after three years.
         description: | # this will include new
           + Worked with a hardware guy to design and develop a compact device named "Mini Terminal" that is similar to Raspberry Pi. In order to make it,
-          we chose STM32F4 series from ST as the main MCU and FreeRTOS as the real-time os for applications.
+          we chose the STM32F4 series from ST as the main MCU and FreeRTOS as the real-time os for applications.
           + Created a hacked version of the tape dispenser named "M-800 Entry" in which an in-house board was injected into their original one to make it smarter.
           + Deployed nearly 150 Mini Terminal devices that closely integrated with our web applications on quality control lines in client’s factories => completely replaced paperwork and improved performance by around 20%.
           + Played Office Administrator role.
@@ -139,10 +139,10 @@ content:
         caption: 09/2008 - 11/2008
         quote: >
           The laboratory where I did my thesis had established a partner relationship with NXP Vietnam; therefore, I luckily had a chance to carry out the thesis
-          under expert guidance and the professional workplace.
+          under expert guidance and in the professional workplace.
         description: | # this will include new lines to allow paragraphs
           + Developed a lightweight USB host library running on the MCB2388 evaluation board. This library complies with USB 2.0 Specification
-          and provides three USB classes including Audio, Human Interface Device (HID) and Mass Storage.
+          and provides three USB classes including Audio, Human Interface Device (HID), and Mass Storage.
           + Applied version control principle to manage and track changes to code and assets across the USB project using SVN software.
 
 # Footer
