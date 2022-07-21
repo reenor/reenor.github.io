@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Khanh Q. Chung
-title: Senior Software & DevOps Engineer
+title: Embedded & DevOps Engineer
 email: reedus.chung@gmail.com
 phone: (+84) 907060401
 Address: Ho Chi Minh, Vietnam
@@ -39,21 +39,20 @@ additional_links:
 
 # About Section
 # about_title: About Me
-# about_profile_image: images/me_white.jpg
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Dear Sir/Madam,
 
-  My name is Khanh, and I'm a careful software engineer with more than 10 years of experience.
+  My name is Khanh, and I'm a careful embedded engineer with more than 8 years of experience.
   In addition, I have 2 years of experience working as a DevOps engineer guy.
-  I'm currently working as a freelancer and teaching some courses relating to designing and programming at the university level.
+  I'm currently working as a freelancer and teaching some courses relating to embedded designing and programming at the university level.
 
   I enjoy thinking deeply before writing code as well as having a curious mindset about how the different components fit together.
-  Working with various languages, IDEs, platforms, and frameworks is what I accumulated over years and I'm really inspired by opportunities to work with something new to widen my tech stack.
+  Working with various languages, IDEs, peripherals and platforms is what I accumulated over years and I'm really inspired by opportunities to work with something new to widen my tech stack.
 
   Besides, I gained a strong background in algorithms throughout a couple of years as a researcher.
 
-  Working in your group will be my best opportunity to show you my best. I'm looking forward to hearing the answer from you soon.
+  Working in your organization will be my best opportunity to show you my best. I'm looking forward to hearing the answer from you soon.
 
 content:
   - title: Education # Title for the section
@@ -77,6 +76,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: Embedded Engineer, DevOps Engineer, Self-employed
+        sub_title: Leanwell Technology Co., Ltd
+        caption: 08/2017 - 05/2022
+        quote: >
+          The company aims to make a whole system for manufacturing operations management (MOM) for small enterprises in Vietnam.
+        description: | # this will include new lines to allow paragraphs
+          + Led an IoT team of 3 staff to research and build all embedded products.
+          + Deployed 500+ above products at clients' factories.
+          + Managed to bridge the gap between the software development team and IT operation guys at the client sites: deploy software releases as quickly as possible,
+          ensure services are easily scalable as well as have the ability of high availability, and protect servers against hackers.
+          + Played the role of purchasing relating to various electronic components.
+          + Set up mass production processes of all company products.
+
+      - layout: top
         title: Lecturer
         sub_title: Faculty of Computer Engineering, University of Information Technology, Vietnam National University (VNU-HCM)
         caption: 10/2015 - Now
@@ -89,18 +102,17 @@ content:
           + Taught Operating System course for sophomore students.
 
       - layout: top
-        title: IoT Team Leader, DevOps Engineer, Self-employed
-        sub_title: Leanwell Technology Co., Ltd
-        caption: 08/2017 - 01/2022
+        title: Embedded Software Engineer, Self-employed
+        sub_title: ZenithTek Co., Ltd
+        caption: 02/2012 -  07/2015
         quote: >
-          The company aims to make a whole system for manufacturing operations management (MOM) for small enterprises in Vietnam.
-        description: | # this will include new lines to allow paragraphs
-          + Led an IoT team of 3 staff to research and build all products.
-          + Deployed 500+ above products at clients' factories.
-          + Managed to bridge the gap between the software development team and IT operation guys at the client sites: deploy software releases as quickly as possible,
-          ensure services are easily scalable as well as have the ability of high availability, and protect servers against hackers.
-          + Played the role of purchasing relating to various electronic components.
-          + Set up mass production processes of all company products.
+          ZenithTek was a high-tech startup founded in Vietnam in 2012 in which we mainly focused on improving the operational efficiency of firms.
+          The company went out of business after three years.
+        description: | # this will include new
+          + Worked with a hardware guy to design and develop a compact device named "Mini Terminal" that is similar to a mini computer.
+          + Created a hacked version of the tape dispenser named "M-800 Entry" in which an in-house board was injected into their original one to make it smarter.
+          + Deployed nearly 150 Mini Terminal devices that closely integrated with our web applications on quality control lines in client’s factories => completely replaced paperwork and improved performance by around 20%.
+          + Played Office Administrator role.
 
       - layout: top
         title: Embedded Software Researcher
@@ -119,20 +131,6 @@ content:
           + Created a data capture device via RS232 & USB interface. This device will be plugged into a bill printer to collect every single byte of data printed.
           + Played Technical Manager role in [Renesas Car Rally](https://www.renesas.com/us/en/about/car-rally) which has been held at the University of Science
           for every student in Southern Vietnam. [Take a look](https://www.youtube.com/watch?v=y6xDSP0UO4M) at how this race is fun.
-
-      - layout: top
-        title: Embedded Software Engineer, Self-employed
-        sub_title: ZenithTek Co., Ltd
-        caption: 02/2012 -  07/2015
-        quote: >
-          ZenithTek was a high-tech startup founded in Vietnam in 2012 in which we mainly focused on improving the operational efficiency of firms.
-          The company went out of business after three years.
-        description: | # this will include new
-          + Worked with a hardware guy to design and develop a compact device named "Mini Terminal" that is similar to Raspberry Pi. In order to make it,
-          we chose the STM32F4 series from ST as the main MCU and FreeRTOS as the real-time os for applications.
-          + Created a hacked version of the tape dispenser named "M-800 Entry" in which an in-house board was injected into their original one to make it smarter.
-          + Deployed nearly 150 Mini Terminal devices that closely integrated with our web applications on quality control lines in client’s factories => completely replaced paperwork and improved performance by around 20%.
-          + Played Office Administrator role.
 
       - layout: top
         title: Embedded Software Internship
