@@ -5,6 +5,7 @@
 # Site
 # repository: sproogen/resume-theme
 favicon: images/white-khanh.ico
+# favicon: images/default.jpg
 
 # Content configuration version
 version: 2
