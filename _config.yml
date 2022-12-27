@@ -4,8 +4,7 @@
 
 # Site
 # repository: sproogen/resume-theme
-favicon: images/white-khanh.ico
-# favicon: images/default.jpg
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -53,7 +52,8 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/default.jpg
+about_profile_image: images/white-khanh.jpg
 about_content: | # this will include new lines to allow paragraphs
   Dear Sir/Madam,
 
