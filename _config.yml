@@ -107,8 +107,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           + USB Host: Humnan Interface Device (HID), Mass Storage Device (MSD), Audio Device
           + Networks: Websocket, MQTT, HTTP(s)
-          + RS232, SPI, I2C, ADC
-          + 1-Wire
+          + RS232, SPI, I2C, ADC, 1-Wire
           + Modbus TCP
           + ISO 14443 Type A (MIFARE)
 
