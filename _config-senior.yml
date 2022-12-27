@@ -1,3 +1,7 @@
+#############################################################
+## The below content is copied from _config-senior.yml
+#############################################################
+
 # Site
 # repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -51,16 +55,15 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Dear Sir/Madam,
-  
-  My name is Khanh, and I'm a careful embedded software engineer with more than 10 years of experience.
-  In addition, I have 2 years experience of working as a DevOps engineer guy.
-  Don't have a lot on my plate like before, I'm currently just teaching some courses relating to programming at the university level.
-  
-  I enjoy thinking deeply before writing code as well as having a curious mindset on how the different components fit together.
-  I have worked with various languages, IDEs, Development Boards, Peripherals, and I'm really inspired by opportunities to work with something new but practical.
 
-  Besides, I gained a strong background in algorithms throughout a couple of years as a researcher.
-  
+  My name is Khanh, and I am a careful embedded software engineer with more than 10 years of experience.
+  In addition, I have 2 years experience of working as a DevOps engineer guy.
+
+  I enjoy thinking deeply before writing code as well as having a curious mindset on how the different components fit together.
+  I have been working with various languages, IDEs, Development Boards, Peripherals, and I'm really inspired by opportunities to work with something new but practical.
+
+  Besides, I also have a strong background in data structure and algorithms throughout a couple of years as a researcher.
+
   Working in your company will be my best opportunity to show you my best. I'm looking forward to hearing answer from you soon.
 
 content:
@@ -71,45 +74,43 @@ content:
         title: Bachelor of Computer Science, 2009
         sub_title: University of Science, Vietnam National University (VNU-HCM)
         caption: Excellent grade
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-        
+        quote:
+        description:
+
       - layout: top-middle
         title: Master of Computer Science, 2012
         sub_title: University of Science, Vietnam National University (VNU-HCM)
         caption: Defended MSc thesis on topic "Study on Tag Anti-Collison using Time Division Multiple Access approach for the SELab MIFARE reader" with the mark as Excellent
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-  
+        quote:
+        description:
+
   - title: Tech stack # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         # title:
         sub_title: Development boards, MCUs, and Modules
-        # caption: 10/2015 - Now
-        # link: https://en.uit.edu.vn
-        # quote: >
         description: | # this will include new lines to allow paragraphs
           + STM32F4G-DISC1, STM32F429I-DISCO, Raspberry Pi, MSP430 LaunchPad, FriendlyARM Mini2440, MCB2300
-          + STM32F407, STM8S103F3, ESP8266, ESP32, ENC424J600, DS18B20, SHT3x, PN532, SG8V1
+          + S32K3xx, STM32F407, STM8S103F3, ESP8266, ESP32, ENC424J600, PN532, SG8V1
           + R301T Fingerprint, StrongLink MIFARE reader
+
       - layout: left
-        sub_title: Platforms and IDEs
+        sub_title: Platforms, IDEs and Tools
         description: | # this will include new lines to allow paragraphs
-          + Bare Metal, RTOS, Embedded Linux
-          + Keil, IAR, GNU Toolchain
+          + Bare Metal, FreeRTOS, OSEK, Embedded Debian
+          + Keil, IAR, SEGGER Embedded Studio, GCC, S32 Design Studio
+          + Git, Jira, CANoe/CANalyzer
+
       - layout: left
         sub_title: Protocols
         description: | # this will include new lines to allow paragraphs
           + USB Host: Humnan Interface Device (HID), Mass Storage Device (MSD), Audio Device
-          + Networks: Websocket, MQTT, HTTP
-          + RS232, SPI, I2C
-          + 1-Wire
-          + Modbus
+          + Networks: Websocket, MQTT, HTTP(s)
+          + RS232, SPI, I2C, ADC, 1-Wire
+          + Modbus TCP
           + ISO 14443 Type A (MIFARE)
+
       - layout: left
         sub_title: Third party libraries
         description: | # this will include new lines to allow paragraphs
@@ -119,6 +120,7 @@ content:
           + jsmn, libcsv, slre
           + LwESP
           + Mongoose networking library
+
       - layout: left
         sub_title: In-house libraries
         description: | # this will include new lines to allow paragraphs
@@ -127,86 +129,78 @@ content:
           + Electric scale
           + Graphic LCD 128x64
           + Electric tape dispenser
+
       - layout: left
         sub_title: Programming languages
         description: | # this will include new lines to allow paragraphs
           + Assembly: 8051, ARM
           + C
           + C++
+          + Python
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: Lecturer
-        sub_title: Department of Embedded Systems and Robotics, University of Information Technology, Vietnam National University (VNU-HCM)
-        caption: 10/2015 - Now
-        link: https://en.uit.edu.vn
-        quote: >
-          
+        title: Embedded Engineer
+        sub_title: FPT Software
+        caption: 07/2022 - now
+        quote:
         description: | # this will include new lines to allow paragraphs
-          + Taught Embedded Systems Programming course which is about microcontroller programming for senior students.
-          + Taught Embedded Systems Design course.
-          + Taught Microprocessor and Microcontroller course for junior students.
-          + Taught Operating System course for sophomore students.
+          + Developed new features related to system management including battery, thermal, poweric,
+          self reset.
 
       - layout: top
-        title: IoT Team Leader, DevOps Engineer, Self-employed
+        title: Embedded Engineer, DevOps Engineer
         sub_title: Leanwell Technology Co., Ltd
         caption: 08/2017 - 01/2022
-        link: https://www.leanwell.co
-        quote: >
+        quote:
           The company aims to make a whole system for manufacturing operations management (MOM) for small enterprises in Vietnam.
         description: | # this will include new lines to allow paragraphs
-          + Led an IoT team of 3 staff to research and build all products.
-          + Deployed 500+ above products at clients' factories.
+          + Led an IoT team of 3 staff to research and build embedded products.
+          + Deployed 500+ embedded devices at clients' factories.
           + Managed to bridge the gap between the software development team and IT operation guys at the client sites: deploy software releases as quickly as possible,
-          ensure services are easily scalable as well as having ability of high availability, protect servers against hackers.
+          ensure services are easily scalable as well as have the ability of high availability, and protect servers against hackers.
           + Played the role of purchasing relating to various electronic components.
-          + Set up mass production processes of all company products.
+          + Set up mass production processes for company's products.
 
       - layout: top
         title: Embedded Software Researcher
         sub_title: Software Engineering Laboratory, University of Science, Vietnam National University (VNU-HCM)
         caption: 12/2009 - 09/2015
-        link: https://www.selab.hcmus.edu.vn
-        quote: >
+        quote:
           SELab was established in 2002 where I significantly gained knowledge from various types of research and leveled up my skills. I very much
           appreciate the time everybody spent for me when I was here.
         description: | # this will include new lines to allow paragraphs
           + Developed an ASM/C Compiler for a domestic 8-bit MCU named SG8V1.
-          + Built a time attendance system on [S3C2440 ARM9](http://www.friendlyarm.net/products/mini2440) board. The cool thing is that
+          + Built a time attendance system on S3C2440-ARM9-based board. The cool thing is that
           each user's fingerprint minutiae is stored in their RFID tag instead of using a centralized database.
-          + Built a MIFARE reader/writer using [RC522](https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf) MCU. This reader supports various kinds of MIFARE tag,
+          + Built a MIFARE reader/writer using MFRC522 MCU. This reader supports various kinds of MIFARE tags,
           such as 1K/4K, Ultralight and DESFire EV1.
-          + Created a data capture device via RS232 & USB interface. This device will be plugged into a bill printer to collect every single byte of data printed.
-          + Played Technical Manager role in [Renesas Car Rally](https://www.renesas.com/us/en/about/car-rally) which has been held at University of Science
-          for every student in the Southern of Vietnam. [Take a look](https://www.youtube.com/watch?v=y6xDSP0UO4M) at how this race is fun.
+          + Created a data capture device via RS232 and USB interface. This device will be plugged into a bill printer to collect every single byte of data printed.
+          + Played Technical Manager role in Renesas Car Rally which has been held at University of Science for every student in the Southern of Vietnam.
+
       - layout: top
-        title: Embedded Software Engineer, Self-employed
+        title: Embedded Software Engineer
         sub_title: ZenithTek Co., Ltd
         caption: 02/2012 -  07/2015
-        quote: >
-          ZenithTek was a hightech startup founded in Vietnam in 2012 in which we mainly focused on improving operational effeciency of firms.
-          The company went out of business after three years.
+        quote:
+          ZenithTek was a hightech startup founded in Vietnam in 2012 in which they mainly focused on improving operational effeciency of firms.
         description: | # this will include new
-          + Worked with a hardware guy to design and develop a compact device named "Mini Terminal" that is similar to Raspberry Pi. In order to make it,
-          we chose STM32F4 series from ST as the main MCU and FreeRTOS as the real-time os for applications.
-          + Created a hacked version of the tape dispenser named "M-800 Entry" in which an in-house board was injected into their original one to make it smarter.
-          + Deployed nearly 150 Mini Terminal devices that closely integrated with our web applications on quality control lines in client’s factories => completely replaced paperwork and improved performance by around 20%.
-          + Played Office Administrator role.
+          + Worked with a hardware guy to design and develop a compact embedded device that is similar to Raspberry Pi.
+          + Created a hacked version of a tape dispenser device in which an in-house board was injected into the original device to make it smarter.
+          + Deployed nearly 150 embedded devices that closely integrated with web applications on quality control lines in clients' factories => completely replaced paperwork and improved performance by around 20%.
 
       - layout: top
         title: Embedded Software Internship
         sub_title: NXP Semiconductors Vietnam
         caption: 09/2008 - 11/2008
-        quote: >
+        quote:
           The laboratory where I did my thesis had established a partner relationship with NXP Vietnam; therefore, I luckily had a chance to carry out the thesis
           under expert guidance and the professional workplace.
         description: | # this will include new lines to allow paragraphs
           + Developed a lightweight USB host library running on the MCB2388 evaluation board. This library complies with USB 2.0 Specification
           and provides three USB classes including Audio, Human Interface Device (HID) and Mass Storage.
-          + Applied version control principle to manage and track changes to code and assets across the USB project using SVN software.
 
 # Footer
 footer_show_references: true

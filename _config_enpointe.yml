@@ -51,14 +51,14 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Dear Sir/Madam,
-  
+
   My name is Khanh, and I'm a careful software engineer with more than 10 years of experience.
   In addition, I have 2 years experience of working as a DevOps engineer guy.
-  I'm currently working as a freelancer and teaching some courses relating to designing and programming at the university level, 
-  
+  I'm currently working as a freelancer and teaching some courses relating to designing and programming at the university level,
+
   I enjoy thinking deeply before writing code as well as having a curious mindset on how the different components fit together.
   Working with various languages, IDEs, platforms and frameworks is what I accumulated over years and I'm really inspired by opportunities to work with something new to widen my stack.
-  
+
   Working in your group will be my best opportunity to show you my best. I'm looking forward to hearing the answer from you soon.
 
 content:
@@ -70,15 +70,15 @@ content:
         sub_title: University of Science, Vietnam National University (VNU-HCM)
         caption: Excellent grade
         quote: >
-          
+
         description:
-        
+
       - layout: top-middle
         title: Master of Computer Science, 2012
         sub_title: University of Science, Vietnam National University (VNU-HCM)
         caption: Defended MSc thesis on topic "Study on Tag Anti-Collison using Time Division Multiple Access approach for the SELab MIFARE reader" with the mark as Excellent
         quote: >
-          
+
         description:
 
   - title: Experience # Title for the section
