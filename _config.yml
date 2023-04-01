@@ -10,17 +10,20 @@ version: 2
 
 # Personal info
 name: Khanh Q. Chung
-title: Embedded Engineer | DevOps Engineer
+title: Lecturer | Embedded Engineer | DevOps Engineer
 email: khanhcq@uit.edu.vn
 phone: (+84) 907060401
-address: Ho Chi Minh city, Vietnam
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
+linkedin_username: reedus
 
 # Additional icon links
+- title: Location
+  icon: fas fa-map-marker
+  url: https://goo.gl/maps/7hL1KTYAgQnMWHeX8
 
 # About Section
 # about_title: About Me
