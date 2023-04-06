@@ -43,72 +43,34 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Bachelor of Computer Science, 2009
+        title: 2012 MS in Computer Science
+        sub_title: University of Science, Vietnam National University (VNU-HCM)
+        caption: Thesis title "Study on Tag Anti-Collison using Time Division Multiple Access approach for the SELab MIFARE reader"
+        quote:
+        description:
+
+      - layout: top-middle
+        title: 2009 BS in Computer Science
         sub_title: University of Science, Vietnam National University (VNU-HCM)
         caption: Excellent grade
         quote:
         description:
 
-      - layout: top-middle
-        title: Master of Computer Science, 2012
-        sub_title: University of Science, Vietnam National University (VNU-HCM)
-        caption: Defended MSc thesis on topic "Study on Tag Anti-Collison using Time Division Multiple Access approach for the SELab MIFARE reader" with the mark as Excellent
-        quote:
-        description:
-
-  - title: Tech stack # Title for the section
+  - title: Professional Appointments # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        # title:
-        sub_title: Development boards, MCUs, and Modules
+      - layout: top
+        title: Lecturer at the Department of Embedded Systems and Robotics
+        sub_title: University of Information Technology
+        caption: 2016 - now
+        quote: >
+          Taught a total of 5 undergraduate courses. Supervised 5 BS theses.
         description: | # this will include new lines to allow paragraphs
-          + STM32F4G-DISC1, STM32F429I-DISCO, Raspberry Pi, MSP430 LaunchPad, FriendlyARM Mini2440, MCB2300
-          + S32K3xx, STM32F407, STM8S103F3, ESP8266, ESP32, ENC424J600, PN532, SG8V1
-          + R301T Fingerprint, StrongLink MIFARE reader
-
-      - layout: left
-        sub_title: Platforms, IDEs and Tools
-        description: | # this will include new lines to allow paragraphs
-          + Bare Metal, FreeRTOS, OSEK, Embedded Debian
-          + Keil, IAR, SEGGER Embedded Studio, GCC, S32 Design Studio
-          + Git, Jira, CANoe/CANalyzer
-
-      - layout: left
-        sub_title: Protocols
-        description: | # this will include new lines to allow paragraphs
-          + USB Host: Humnan Interface Device (HID), Mass Storage Device (MSD), Audio Device
-          + Networks: Websocket, MQTT, HTTP(s)
-          + RS232, SPI, I2C, ADC, 1-Wire
-          + Modbus TCP
-          + ISO 14443 Type A (MIFARE)
-
-      - layout: left
-        sub_title: Third party libraries
-        description: | # this will include new lines to allow paragraphs
-          + FreeRTOS
-          + lwIP
-          + FatFs
-          + jsmn, libcsv, slre
-          + LwESP
-          + Mongoose networking library
-
-      - layout: left
-        sub_title: In-house libraries
-        description: | # this will include new lines to allow paragraphs
-          + Mifare
-          + Fingerprint
-          + Electric scale
-          + Graphic LCD 128x64
-          + Electric tape dispenser
-
-      - layout: left
-        sub_title: Programming languages
-        description: | # this will include new lines to allow paragraphs
-          + Assembly: 8051, ARM
-          + C
-          + C++
-          + Python
+          + Embedded Systems Programming course
+          + Embedded Systems Design course
+          + Microprocessor and Microcontroller course
+          + Operating Systems course
+          + Computer Organization course
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
