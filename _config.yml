@@ -30,17 +30,13 @@ linkedin_username: reedus
 about_profile_image: images/default.jpg
 # about_profile_image: images/white-khanh.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Dear Sir/Madam,
+  Dear Sir,
 
-  My name is Khanh, and I am a careful embedded software engineer with more than 10 years of experience.
-  In addition, I have 2 years experience of working as a DevOps engineer guy.
+  My name is Khanh, and I have been a lecturer at the University of Information Technology in Vietnam for years. Working for other technology enterprises besides teaching is also one of my strengths. I'm currently seeking to undertake PhD research regarding the development of embedded systems and IoT field.
 
-  I enjoy thinking deeply before writing code as well as having a curious mindset on how the different components fit together.
-  I have been working with various languages, IDEs, Development Boards, Peripherals, and I'm really inspired by opportunities to work with something new but practical.
+  I strongly believe that my ability and effort will be a good fit for the PhD position, and working in your group will be my best opportunity to show you my best.
 
-  Besides, I also have a strong background in data structure and algorithms throughout a couple of years as a researcher.
-
-  Working in your company will be my best opportunity to show you my best. I'm looking forward to hearing answer from you soon.
+  I'm looking forward to hearing answer from you soon.
 
 content:
   - title: Education # Title for the section
