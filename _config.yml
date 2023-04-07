@@ -65,7 +65,7 @@ content:
         sub_title: University of Information Technology
         caption: 2016 - now
         quote: >
-          Taught a total of 5 undergraduate courses. Supervised 5 BS theses.
+          Supervised 5 BS theses. Taught a total of 5 undergraduate courses as the following
         description: | # this will include new lines to allow paragraphs
           + Embedded Systems Programming course
           + Embedded Systems Design course
@@ -93,15 +93,18 @@ content:
         sub_title: Harman R&D Center (A Samsung Company), Suzhou, China
         caption: 2022 - now
         quote: >
+          Exposed myself to the exciting automotive industry
         description: | # this will include new lines to allow paragraphs
-          + Developed new features related to system management including battery, thermal, poweric, self reset.
+          + Designed and developed the communication stack and bootloader used in NXP S32K3xx MCU
+          + Researched and developed new features related to Over-The-Air update
+          + Analyzed cyber security features and set up unit testing for the secure software module
 
       - layout: top
         title: Embedded Engineer, DevOps Engineer
         sub_title: Leanwell Technology Co., Ltd
         caption: 2017 - 2021
         quote: >
-          My main aim in this startup was to collect as much data as possible by creating IoT devices.
+          My main aim in the 2nd startup was to collect as much data as possible by creating various IoT devices.
         description: | # this will include new lines to allow paragraphs
           + Led an IoT team of 4 staff in researching and building commercial embedded products.
           + Deployed 500+ embedded devices at clients' factories.
@@ -114,7 +117,7 @@ content:
         sub_title: ZenithTek Co., Ltd
         caption: 2012 - 2015
         quote: >
-          My goal.
+          My 1st startup was to solve the problem related to how to improve workers's performance in quality control lines
         description: | # this will include new lines to allow paragraphs
           + Worked closely with a hardware guy to design and develop a compact embedded device that is similar to Raspberry Pi.
           + Created a hacked version of a tape dispenser device in which an in-house board was injected into the original device to make it smarter.
