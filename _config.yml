@@ -96,7 +96,7 @@ content:
           Exposed myself to the exciting automotive industry
         description: | # this will include new lines to allow paragraphs
           + Designed and developed the communication stack and bootloader used in NXP S32K3xx MCU
-          + Researched and developed new features related to Over-The-Air update
+          + Researched and developed new features related to Over-The-Air update feature
           + Analyzed cyber security features and set up unit testing for the secure software module
 
       - layout: top
@@ -117,7 +117,7 @@ content:
         sub_title: ZenithTek Co., Ltd
         caption: 2012 - 2015
         quote: >
-          My 1st startup was to solve the problem related to how to improve workers's performance in quality control lines
+          My 1st startup was to solve the problem related to how to improve workers' performance in quality control lines
         description: | # this will include new lines to allow paragraphs
           + Worked closely with a hardware guy to design and develop a compact embedded device that is similar to Raspberry Pi.
           + Created a hacked version of a tape dispenser device in which an in-house board was injected into the original device to make it smarter.
